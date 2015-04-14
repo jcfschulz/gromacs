@@ -73,6 +73,8 @@
 /*For debugging, start at v(-dt/2) for velolcity verlet -- uncomment next line */
 /*#define STARTFROMDT2*/
 
+test
+
 typedef struct {
     double gdt;
     double eph;
